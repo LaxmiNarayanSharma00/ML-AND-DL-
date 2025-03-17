@@ -1,6 +1,3 @@
-## About
-
-Welcome to my AI Programming Showcase! This repository showcases my journey in implementing machine learning and deep learning algorithms, both from scratch and using libraries like scikit-learn, TensorFlow, Keras, and PyTorch. Each implementation includes Jupyter notebooks or Python scripts, applied to various datasets—generated or real-world—to demonstrate the algorithms. This is intended for learners and practitioners alike to explore AI concepts and implementations.
 
 ### Repository Structure
 
